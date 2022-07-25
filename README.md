@@ -1,0 +1,4 @@
+- 👋 ola eu sou @gabi24112007
+- 👀 eu tenho interesse em aprender a progamar novas linguagens
+- 🌱 eu estou aprendendo a linguagem JavaScript e Scratch 
+- 📫 meu email de contato é (gabrielly.paula.xavier@escola.pr.gov.br)
